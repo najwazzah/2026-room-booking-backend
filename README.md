@@ -19,6 +19,7 @@ Cara Menjalankan
 <img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/54f6a7df-d53f-4f03-be18-db4a4f552e0c" />
 
 - Hasil *GET /api/RoomBooking*
-<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/5dcd969b-9a2e-4a5e-88f3-e6059a5be32c" />
+<img width="1820" height="726" alt="image" src="https://github.com/user-attachments/assets/c0888bb9-6e43-465d-b6d4-cdc9693cbd88" />
+
 
 
