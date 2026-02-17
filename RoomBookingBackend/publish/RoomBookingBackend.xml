@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RoomBookingBackend</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:RoomBookingBackend.Controllers.RoomBookingController.GetBookings" -->
+        <member name="M:RoomBookingBackend.Controllers.RoomBookingController.GetBooking(System.Int32)">
+            <summary>
+            Ambil booking berdasarkan ID.
+            </summary>
+            <param name="id">ID booking</param>
+            <returns>RoomBookingReadDto</returns>
+        </member>
+        <member name="T:RoomBookingBackend.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:RoomBookingBackend.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:RoomBookingBackend.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:RoomBookingBackend.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:RoomBookingBackend.Migrations.SeedRoomBooking">
+            <inheritdoc />
+        </member>
+        <member name="M:RoomBookingBackend.Migrations.SeedRoomBooking.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:RoomBookingBackend.Migrations.SeedRoomBooking.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:RoomBookingBackend.Migrations.SeedRoomBooking.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
